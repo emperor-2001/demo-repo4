@@ -2,6 +2,6 @@
 
 - to merge files remotely more
 
-## subheader 2
+## subheader
 
 Welcome us friend
